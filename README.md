@@ -15,5 +15,5 @@ I work across backend systems, frontend craft, and applied AI — with a strong 
 TypeScript • React • Next.js • Node.js • Python • PostgreSQL • Docker • AWS
 
 ## Elsewhere
-- LinkedIn: [linkedin.com/in/salman-jara](linkedin.com/in/salman-jara)
+- LinkedIn: [linkedin.com/in/salman-jara](https://linkedin.com/in/salman-jara)
 - Email: [salmanjedits@gmail.com](mailto:salmanjedits@gmail.com)
