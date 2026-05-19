@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Salman 👋
 
-<!--
-**Salman-Jara/Salman-Jara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack product engineer building AI-powered products at a YC-backed startup.
 
-Here are some ideas to get you started:
+I work across backend systems, frontend craft, and applied AI — with a strong focus on building fast, reliable, product-oriented software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Interests
+- AI product engineering
+- LLM applications & workflows
+- Scalable backend systems
+- Frontend architecture & UX
+- Developer tooling
+
+## Tech
+TypeScript • React • Next.js • Node.js • Python • PostgreSQL • Docker • AWS
+
+## Elsewhere
+- LinkedIn: [linkedin.com/in/salman-jara](#)
+- Email: [salmanjedits@gmail.com](mailto:salmanjedits@gmail.com)
